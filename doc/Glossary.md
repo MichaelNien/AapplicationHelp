@@ -8,3 +8,8 @@ NIST SP 800-207
 
 零信任架構（Zero Trust Architecture，ZTA）
 
+身分確認（Identity proofing）
+
+身分驗證（Authentication）
+
+授權（Authorization）
