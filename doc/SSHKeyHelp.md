@@ -1,12 +1,14 @@
 # SSHKeyHelp
 
-### Windows 10/11 指令產生 OpenSSH Kay
+
+
+## Windows 10/11 指令產生 OpenSSH Kay
 
 ```
 ssh-keygen -t ed25519
 ```
 
-產生 C:\Users\帳號名稱\\.ssh\ 公私鑰
+產生 C:\Users\帳號名稱\\.ssh\公私鑰
 
 - (私鑰)id_ed25519
 
@@ -15,7 +17,7 @@ ssh-keygen -t ed25519
 
 
 
-### 轉換私鑰格式
+## 轉換私鑰格式
 
 使用 puttygen.exe 版本(Release 0.76)
 
@@ -27,7 +29,7 @@ Save Private .ppk 格式 v2 版本的
 
 
 
-### 參考
+## 參考
 
 設定輸出 v2版本 .ppk 格式 Key
 
