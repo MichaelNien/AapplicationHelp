@@ -29,15 +29,7 @@ Save Private .ppk 格式 v2 版本的
 
 
 
-## 參考
-
-設定輸出 v2版本 .ppk 格式 Key
-
-https://blog.csdn.net/gfluozhitao/article/details/118053900
-
-指令產生 SSH Key (OpenSSH格式)
-
-https://docs.microsoft.com/zh-tw/windows-server/administration/openssh/openssh_keymanagement
+## Source Tree 連接SSH出錯
 
 Source Tree 連接SSH出錯
 
@@ -64,3 +56,29 @@ and the repository exists.
 ```
 
 https://blog.jsy.tw/1919/source-tree-ssh-key-github-enterprise/
+
+
+
+### Windows Cmd
+
+```
+C:\Users\帳號名稱\AppData\Local\SourceTree\app-版本號\tools\putty\
+```
+
+```
+putty github.com
+```
+
+https://community.atlassian.com/forums/Sourcetree-questions/SourceTree-error-The-server-s-host-key-is-not-cached-in-the/qaq-p/1410001
+
+
+
+## 參考
+
+設定輸出 v2版本 .ppk 格式 Key
+
+https://blog.csdn.net/gfluozhitao/article/details/118053900
+
+指令產生 SSH Key (OpenSSH格式)
+
+https://docs.microsoft.com/zh-tw/windows-server/administration/openssh/openssh_keymanagement
